@@ -1,7 +1,7 @@
 # study_colmap
 colmapの勉強   
 ## 目的  
-SLAM-viewer の代替手法として、COLMAP を試用し、ICP マッチングによる点群の位置・姿勢整合が可能かを検証することを目的とする。
+ORBSLAM3Windowsの代替手法として、COLMAP を試用し、ICP マッチングによる点群の位置・姿勢整合が可能かを検証することを目的とする。
 ## colmapとは何なのか
 colmapとは画像から3次元の構造を復元するためのオープンソースのPhotogrammetryソフトウェア  
 <sub>複数の2D画像から3次元の点群データやカメラの位置推定を行うことができる
